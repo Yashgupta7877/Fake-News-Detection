@@ -120,6 +120,20 @@ The Random Forest model achieved the highest accuracy on the test dataset and wa
 
 ---
 
+## 📸 Application Screenshots
+
+### Home Page
+
+![Home](output/screenshots/Landing_page.png)
+
+### True News Prediction
+
+![True Prediction](output/screenshots/TRUE.png)
+
+### Fake News Prediction
+
+![Fake Prediction](output/screenshots/FAKE.png)
+
 ## 👨‍💻 Author
 
 Yash Gupta
